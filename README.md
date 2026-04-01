@@ -14,4 +14,9 @@ Building modern web applications and data-driven solutions
 - Bookmark Tool  
 
 ## 📫 Contact
-Open for freelance projects & collaborations
+- Twitter: https://twitter.com/nzdev_in/ 
+- Instagram: https://instagram.com/nzdev.in/
+- Whatsapp: https://wa.me/918360632074
+
+## 🤝 Open To
+Freelance projects • Collaborations • Building real-world products 🚀
