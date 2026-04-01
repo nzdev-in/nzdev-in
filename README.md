@@ -3,7 +3,7 @@
 Building modern web applications and data-driven solutions  
 
 ## 🔧 Tech Stack
-- Python / Django
+- Python 
 - JavaScript / Tailwind
 - APIs & Automation
 - Data Analysis
