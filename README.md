@@ -13,8 +13,5 @@ Building modern web applications and data-driven solutions
 - Trading Journal System  
 - Bookmark Tool  
 
-## 🌐 Website
-https://nzdev.in
-
 ## 📫 Contact
 Open for freelance projects & collaborations
