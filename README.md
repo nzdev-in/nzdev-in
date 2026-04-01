@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🚀 NZDEV
 
-<!--
-**nzdev-in/nzdev-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building modern web applications and data-driven solutions  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python / Django
+- JavaScript / Tailwind
+- APIs & Automation
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+- Real-time Chat App  
+- Trading Journal System  
+- Bookmark Tool  
+
+## 🌐 Website
+https://nzdev.in
+
+## 📫 Contact
+Open for freelance projects & collaborations
